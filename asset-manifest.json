@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/CDSite/static/css/main.7ab7b9ea.css",
+    "main.js": "/CDSite/static/js/main.13fb4fd1.js",
+    "static/js/787.bfd237ec.chunk.js": "/CDSite/static/js/787.bfd237ec.chunk.js",
+    "static/media/laptop-bg.jpg": "/CDSite/static/media/laptop-bg.425639611935b8a5aace.jpg",
+    "static/media/quotation.png": "/CDSite/static/media/quotation.fa9dc2f81d0db0ef3af4.png",
+    "static/media/board.png": "/CDSite/static/media/board.6af84f3a30574c01b802.png",
+    "static/media/gradepic.png": "/CDSite/static/media/gradepic.cad1530f5c68ae6336b9.png",
+    "static/media/GitHub_Logo.png": "/CDSite/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
+    "static/media/react-brands.svg": "/CDSite/static/media/react-brands.b9ee6e1d0ee75ee94813aabb411b463d.svg",
+    "static/media/github-brands.svg": "/CDSite/static/media/github-brands.833b63e28cadf07403bc81451d30b858.svg",
+    "static/media/java-brands.svg": "/CDSite/static/media/java-brands.22c44c41c94e0ddff73ea5806edc71f1.svg",
+    "static/media/cd.svg": "/CDSite/static/media/cd.0f1e1be7d661b8aa13c6da650f2d14c9.svg",
+    "static/media/at-solid.svg": "/CDSite/static/media/at-solid.04d34fa8c28714d3a1f5687daa83ed09.svg",
+    "static/media/database-solid.svg": "/CDSite/static/media/database-solid.cd6d69f468fb23b47e3f9e88f9537524.svg",
+    "static/media/js-brands.svg": "/CDSite/static/media/js-brands.849ab271da269656ee7d884b34d5ebce.svg",
+    "index.html": "/CDSite/index.html",
+    "static/media/linkedin-brands.svg": "/CDSite/static/media/linkedin-brands.f2f7d420f8ec14109e65abad03b5f32c.svg",
+    "static/media/bars-solid.svg": "/CDSite/static/media/bars-solid.4de0b64b468d9cdbdd41f4d490765099.svg",
+    "static/media/phone-solid.svg": "/CDSite/static/media/phone-solid.d11a5673b368c47201f7dc8d86dc0719.svg",
+    "static/media/html5-brands.svg": "/CDSite/static/media/html5-brands.280fcec471ee0f3842bcb8ff7c9bbf23.svg",
+    "main.7ab7b9ea.css.map": "/CDSite/static/css/main.7ab7b9ea.css.map",
+    "main.13fb4fd1.js.map": "/CDSite/static/js/main.13fb4fd1.js.map",
+    "787.bfd237ec.chunk.js.map": "/CDSite/static/js/787.bfd237ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab7b9ea.css",
+    "static/js/main.13fb4fd1.js"
+  ]
+}
